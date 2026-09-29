@@ -10,8 +10,8 @@ android {
         applicationId "com.asus.mlbbassist"
         minSdk 26
         targetSdk 34
-        versionCode 3
-        versionName "1.2-kimiloo"
+        versionCode 4
+        versionName "1.3-kimiloo"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

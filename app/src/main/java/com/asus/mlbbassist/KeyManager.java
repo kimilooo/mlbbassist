@@ -39,7 +39,7 @@ public class KeyManager {
     }
 
     public String getModel() {
-        return prefs.getString(KEY_MODEL, "gemini-2.5-flash");
+        return prefs.getString(KEY_MODEL, "gemini-3.8-flash");
     }
 
     public String getKey(int index) {
